@@ -1,0 +1,2 @@
+# Movie-Management-System---ADBMS
+The Movie management system is a set of digital solutions that lets you manage all of the operations in your cinema in a more efficient manner, decreasing the workload and simplifying all of the operations. It aids in the streamlining and automation of all activities, providing you with the ideal management system, and allowing you to maintain totalitarian management of overall cinema operations. The cinema management system will aid in keeping track of ticket sales and movie attendance when people purchase tickets.
